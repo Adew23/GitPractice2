@@ -19,5 +19,7 @@ test('INput box Test', async ({ page }) => {
 
     console.log("second push")
 
+    console.log('CI using GitHub Actions |For  Continuous Integration 2');
+
 
 })
